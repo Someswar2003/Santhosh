@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-28T18:01:15 IST" name="Default suite" finished-at="2025-01-28T18:01:23 IST" duration-ms="7541">
+    <groups>
+    </groups>
+    <test started-at="2025-01-28T18:01:15 IST" name="Default test" finished-at="2025-01-28T18:01:23 IST" duration-ms="7541">
+      <class name="Pharmacy_Management.PurchaseOrderTest">
+        <test-method is-config="true" signature="bsuite()[pri:0, instance:Pharmacy_Management.PurchaseOrderTest@7770f470]" started-at="2025-01-28T18:01:15 IST" name="bsuite" finished-at="2025-01-28T18:01:15 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsuite -->
+        <test-method is-config="true" signature="btest()[pri:0, instance:Pharmacy_Management.PurchaseOrderTest@7770f470]" started-at="2025-01-28T18:01:15 IST" name="btest" finished-at="2025-01-28T18:01:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btest -->
+        <test-method is-config="true" signature="bclass()[pri:0, instance:Pharmacy_Management.PurchaseOrderTest@7770f470]" started-at="2025-01-28T18:01:15 IST" name="bclass" finished-at="2025-01-28T18:01:20 IST" duration-ms="4604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bclass -->
+        <test-method is-config="true" signature="bmethod()[pri:0, instance:Pharmacy_Management.PurchaseOrderTest@7770f470]" started-at="2025-01-28T18:01:20 IST" name="bmethod" finished-at="2025-01-28T18:01:20 IST" duration-ms="873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method signature="userAbleToVerifyThePurchaseOrderTest()[pri:0, instance:Pharmacy_Management.PurchaseOrderTest@7770f470]" started-at="2025-01-28T18:01:20 IST" name="userAbleToVerifyThePurchaseOrderTest" finished-at="2025-01-28T18:01:20 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userAbleToVerifyThePurchaseOrderTest -->
+        <test-method is-config="true" signature="amethod()[pri:0, instance:Pharmacy_Management.PurchaseOrderTest@7770f470]" started-at="2025-01-28T18:01:20 IST" name="amethod" finished-at="2025-01-28T18:01:22 IST" duration-ms="1862" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method is-config="true" signature="aclass()[pri:0, instance:Pharmacy_Management.PurchaseOrderTest@7770f470]" started-at="2025-01-28T18:01:22 IST" name="aclass" finished-at="2025-01-28T18:01:23 IST" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aclass -->
+        <test-method is-config="true" signature="atest()[pri:0, instance:Pharmacy_Management.PurchaseOrderTest@7770f470]" started-at="2025-01-28T18:01:23 IST" name="atest" finished-at="2025-01-28T18:01:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atest -->
+        <test-method is-config="true" signature="asuite()[pri:0, instance:Pharmacy_Management.PurchaseOrderTest@7770f470]" started-at="2025-01-28T18:01:23 IST" name="asuite" finished-at="2025-01-28T18:01:23 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asuite -->
+      </class> <!-- Pharmacy_Management.PurchaseOrderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
